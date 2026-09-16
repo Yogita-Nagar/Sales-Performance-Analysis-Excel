@@ -83,7 +83,7 @@ The interactive dashboard includes:
 - Charts for performance visualization
 - Multiple dashboard views
 
-![Sales Performance Dashboard](Excel Dashboard.png)
+![Sales Performance Dashboard](./Excel Dashboard.png)
 
 ---
 
